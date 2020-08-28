@@ -9,6 +9,7 @@ tags:
 categories:
 - Development
 - Architecture
+draft: true
 
 ---
 One of the most interesting discussions to have with people, notably those

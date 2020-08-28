@@ -1,16 +1,16 @@
 ---
-title: "Live Unit Testing .NET Core - Where are my tests?"
-date: "2019-10-11T13:08:17+01:00"
+title: Live Unit Testing .NET Core - Where are my tests?
+date: 2019-10-11T13:08:17+01:00
 categories:
-    - development
+- development
 tags:
-    - dotnet
-    - testing
-    - visualstudio
-draft: false
+- dotnet
+- testing
+- visualstudio
 comments: true
----
+draft: true
 
+---
 So you're sitting in front of your computer, wondering why your unit tests won't
 show up in Visual Studio's Live Test Window. They appear fine in the normal Tests
 Window and they run without problems, you haven't done anything weird and all you

@@ -1,14 +1,14 @@
 ---
 title: Organizing your Development Directory
-date: 2019-04-15 19:05:00
+date: 2019-04-15T19:05:00.000+00:00
 categories:
-    - development
+- development
 tags:
-    - development
-draft: false
+- development
 comments: true
----
+draft: true
 
+---
 As an engineer, I like to think that I help fix problems. That's what I've tried to do most of
 my life and career and I love doing so to this day. It struck me, though, that there was one
 problem which has followed me around for years without due attention: the state of my development

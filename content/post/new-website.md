@@ -1,11 +1,12 @@
 ---
 title: New Website
-date: 2016-12-11 22:36:47
+date: 2016-12-11T22:36:47.000+00:00
 categories:
-  - Web Development
+- Web Development
 tags:
-  - web
-  - projects
+- web
+- projects
+
 ---
 Sierra Softworks has a brand new website, rebuilt from the ground up using the
 brilliant [Hexo][hexo] project. A lot of emphasis was placed on making it as

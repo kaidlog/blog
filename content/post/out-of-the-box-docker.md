@@ -1,12 +1,13 @@
 ---
 title: Out of the Box Docker
-date: 2017-01-05 21:39:45 +0000
+date: 2017-01-05T21:39:45.000+00:00
 tags:
 - docker
 - ops
 - patterns
 categories:
 - Operations
+draft: true
 
 ---
 {{< figure "Docker's Logo" "https://cdn.sierrasoftworks.com/blog/docker_logo.png" >}}

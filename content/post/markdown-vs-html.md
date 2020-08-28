@@ -1,10 +1,12 @@
 ---
 title: Markdown or HTML?
-date: 2014-01-22 21:52:00
-tags: 
-    - web
+date: 2014-01-22T21:52:00.000+00:00
+tags:
+- web
 categories:
-    - Web Development
+- Web Development
+draft: true
+
 ---
 Until now, all of my work on websites has been done in HTML. Write HTML for this page, 
 write HTML for that project and so on. HTML is one of those languages which anyone who considers 

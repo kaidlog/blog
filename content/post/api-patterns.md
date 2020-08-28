@@ -1,11 +1,11 @@
 ---
 title: Patterns for APIs
-date: 2018-03-28 20:00:00
+date: 2018-03-28T20:00:00.000+00:00
 tags:
-    - development
-    - api
----
+- development
+- api
 
+---
 If you've built a production API before, you'll know that they tend to
 evolve over time. This evolution is not only unavoidable, it is a natural
 state that any active system will exist in until it is deprecated.

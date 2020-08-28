@@ -1,13 +1,14 @@
 ---
 title: Autocompletion for Bash CLI
-date: 2016-12-14 10:41:20
+date: 2016-12-14T10:41:20.000+00:00
 tags:
-  - development
-  - github
-  - bash
-  - opensource
----
+- development
+- github
+- bash
+- opensource
+draft: true
 
+---
 {{< alert info >}}
 If you haven't yet read the article on
 [Bash CLI](https://github.com/SierraSoftworks/bash-cli) then

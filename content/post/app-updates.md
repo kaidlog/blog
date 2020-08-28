@@ -1,16 +1,16 @@
 ---
-title: "App Updates"
-date: "2019-10-15T12:21:22+01:00"
+title: App Updates
+date: 2019-10-15T12:21:22+01:00
 categories:
-    - development
+- development
 tags:
-    - development
-    - desktop
-    - updates
-draft: false
+- development
+- desktop
+- updates
 comments: true
----
+draft: true
 
+---
 Today I work as an SRE, surrounded by dozens of complex systems designed to make the process of
 taking code we write and exposing it to customers. It's easy to forget that software deployment
 itself is a problem that many developers have not yet solved.

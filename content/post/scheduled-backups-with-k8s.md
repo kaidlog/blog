@@ -6,6 +6,7 @@ tags:
 - operations
 - cdn
 - s3
+draft: true
 
 ---
 It's a poorly hidden fact that I love Kubernetes. After spending months running everything from

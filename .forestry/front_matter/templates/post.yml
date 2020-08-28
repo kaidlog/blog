@@ -29,6 +29,7 @@ fields:
   label: Comments
   description: Whether comments are enabled on this post or not
 pages:
+- content/bio.md
 - content/post/backups-and-google-cloud-storage.md
 - content/post/evented-io-for-production-systems.md
 - content/post/python-iterators-next.md

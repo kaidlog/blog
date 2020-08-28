@@ -1,54 +1,44 @@
 baseurl = "/"
-languageCode = "en-GB"
-title = "Sierra Softworks"
-
-sectionPagesMenu = "menu"
-paginate = 20
-
 disqusShortname = "sierrasoftworks"
 googleAnalytics = "UA-40095482-1"
-
-theme = "minimalist"
-
-themesDir = "themes"
-
-pygmentsUseClasses = true
+languageCode = "en-GB"
+paginate = 20
 pygmentsCodeFences = true
-
-[params]
-    site_author = "Benjamin Pannell"
-    site_description = "The official Sierra Softworks blog"
-    location = "Dublin, Ireland"
-    avatar = "https://cv.sierrasoftworks.com/resources/avatar.jpg"
-    logo = "https://cdn.sierrasoftworks.com/logos/icon.png"
-    subtitle = "Blog"
-    copyright = "Copyright Sierra Softworks"
-    occupation = "Site Reliability Engineer, Microsoft"
-
-    custom_css = ["/css/custom.css"]
-    custom_js  = [
-        "https://js.sentry-cdn.com/9b2237ebb25e438bb6bf3b819c419495.min.js"
-    ]
-
-    google_analytics = "UA-40095482-1"
-    
-
-[social]
-    twitter   = "SierraSoftworks"
-    facebook  = ""
-    linkedin  = ""
-    behance   = ""
-    dribbble  = ""
-    instagram = "notheotherben"
-    github    = "SierraSoftworks"
-    gplus     = ""
-
-[permalinks]
-    post = "/:year/:month/:day/:filename/"
-
+pygmentsUseClasses = true
+sectionPagesMenu = "menu"
+theme = "minimalist"
+themesDir = "themes"
+title = "Sierra Softworks"
 [[menu.main]]
-    name = "GitHub"
-    title = "View my open source GitHub projects"
-    url = "https://github.com/SierraSoftworks"
-    weight = 200
-    pre = "<i class='icon-github'></i>"
+name = "Archived Projects"
+title = "View some of the previous projects I've worked on"
+weight = 2
+[[menu.main]]
+name = "GitHub"
+pre = "<i class='icon-github'></i>"
+title = "View my open source GitHub projects"
+url = "https://github.com/SierraSoftworks"
+weight = 5
+[params]
+avatar = "https://cv.sierrasoftworks.com/resources/avatar.jpg"
+copyright = "Copyright Sierra Softworks"
+custom_css = ["/css/custom.css"]
+custom_js = ["https://js.sentry-cdn.com/9b2237ebb25e438bb6bf3b819c419495.min.js"]
+google_analytics = "UA-40095482-1"
+location = "Dublin, Ireland"
+logo = "https://cdn.sierrasoftworks.com/logos/icon.png"
+occupation = "Site Reliability Engineer, Microsoft"
+site_author = "Benjamin Pannell"
+site_description = "The official Sierra Softworks blog"
+subtitle = "Blog"
+[permalinks]
+post = "/:year/:month/:day/:filename/"
+[social]
+behance = ""
+dribbble = ""
+facebook = ""
+github = "SierraSoftworks"
+gplus = ""
+instagram = "notheotherben"
+linkedin = ""
+twitter = "SierraSoftworks"

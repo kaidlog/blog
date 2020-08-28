@@ -5,7 +5,7 @@ menu:
   main:
     title: Find the most recent versions of licenses used in my projects
     pre: <i class="icon-lock"></i>
-    weight: 150
+    weight: 4
 draft: true
 
 ---

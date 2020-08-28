@@ -1,12 +1,13 @@
 ---
 title: Traefik on Docker Swarm
-date: 2016-12-11 14:11:22
+date: 2016-12-11T14:11:22.000+00:00
 tags:
-    - docker
-    - docker-swarm
-    - ops
+- docker
+- docker-swarm
+- ops
 categories:
-    - Operations
+- Operations
+
 ---
 [Traefik][traefik] is an application load balancer written in Go and designed to simplify
 the task of serving HTTP(S) services whose configuration changes on the fly. Traefik v1.1.0

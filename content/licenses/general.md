@@ -1,8 +1,9 @@
 ---
 title: Sierra Softworks License
 comments: false
----
+draft: true
 
+---
 ## Your Rights
 #### You May
 <ul class="fa-ul">

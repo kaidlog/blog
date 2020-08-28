@@ -1,8 +1,9 @@
 ---
 title: The MIT License (MIT)
 comments: false
----
+draft: true
 
+---
 ## Your Rights
 #### You May
 <ul class="fa-ul">

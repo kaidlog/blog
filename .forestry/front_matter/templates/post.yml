@@ -29,11 +29,9 @@ fields:
   label: Comments
   description: Whether comments are enabled on this post or not
 pages:
-- content/post/live-unit-testing-with-net-core.md
-- content/post/organizing-your-project-directory.md
-- content/post/python-iterators-next.md
 - content/post/backups-and-google-cloud-storage.md
 - content/post/evented-io-for-production-systems.md
-- content/post/rotating-backups.md
+- content/post/python-iterators-next.md
 - content/post/recipe-for-a-monitoring-service.md
+- content/post/rotating-backups.md
 - content/post/the-cost-of-backups.md

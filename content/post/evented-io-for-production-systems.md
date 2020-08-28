@@ -8,6 +8,7 @@ tags:
 - development
 - patterns
 comments: false
+draft: true
 
 ---
 I've just spent the last month rewriting the core component in a monitoring stack which is responsible for protecting the availability of a billion dollar per year franchise. The purpose of this rewrite was to improve the ability of our engineers to implement new features in a safe, quick and easy way - what we delivered ended up offering a four order of magnitude performance and efficiency improvement over our previous system.

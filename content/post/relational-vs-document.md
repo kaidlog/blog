@@ -1,14 +1,15 @@
 ---
 title: Relational and Document DBs
-date: 2017-01-26 17:31:00
+date: 2017-01-26T17:31:00.000+00:00
 tags:
-    - development
-    - databases
-    - mongodb
-    - mysql
+- development
+- databases
+- mongodb
+- mysql
 categories:
-    - Development
-    - Architecture
+- Development
+- Architecture
+
 ---
 One of the most interesting discussions to have with people, notably those
 with traditional database experience, is that of the relationship between

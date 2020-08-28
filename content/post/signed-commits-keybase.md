@@ -1,12 +1,13 @@
 ---
 title: Signing Git Commits using Keybase
-date: 2016-12-19 07:55:47 +0000
+date: 2016-12-19T07:55:47.000+00:00
 tags:
 - github
 - git
 - opensource
 - development
 - security
+draft: true
 
 ---
 {{< figure "KeyBase's Logo" "https://cdn.sierrasoftworks.com/blog/keybase_logo.png" >}}

@@ -1,13 +1,13 @@
 ---
 title: Scheduled Backups with Kubernetes
-date: 2017-11-01 20:32:07
+date: 2017-11-01T20:32:07.000+00:00
 tags:
-    - kuberentes
-    - operations
-    - cdn
-    - s3
----
+- kuberentes
+- operations
+- cdn
+- s3
 
+---
 It's a poorly hidden fact that I love Kubernetes. After spending months running everything from
 Marathon DCOS and CoreOS to Rancher and Docker Swarm in production, Kubernetes is the only
 container orchestration platform that has truly struck me as truly "production ready" and I

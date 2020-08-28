@@ -1,10 +1,12 @@
 ---
 title: Code Highlighters
-date: 2013-12-06 09:25:02
+date: 2013-12-06T09:25:02.000+00:00
 tags:
-    - web
+- web
 categories:
-    - Web Development
+- Web Development
+draft: true
+
 ---
 Code Highlighting is one of those things which doesn't seem like a big deal, until you see what a difference it can make. The issue is that source code is inherently difficult to read due to the vast number of keywords and punctuation used by compilers to understand what we are trying to tell them to do. In an effort to combat this difficulty, we rely on two different tools. 
 

@@ -1,16 +1,17 @@
 ---
-title: "Designing Human Systems"
-date: 2020-05-15T08:00:52+01:00
+title: Designing Human Systems
+date: 2020-05-15T08:00:52.000+01:00
 categories:
-  - site reliability engineering
-  - balance
+- site reliability engineering
+- balance
 tags:
-  - development
-  - site reliability engineering
-  - balance
+- development
+- site reliability engineering
+- balance
 comments: true
----
+draft: true
 
+---
 Recently I was having a conversation with a colleague who asserted that we (SREs) are broadly the
 types of engineer who, if given the choice, try to focus on perfecting the fundamentals. This
 surprised me, because if you were to ask me about my views on engineering, I'd probably lean

@@ -6,6 +6,7 @@ tags:
 categories:
 - Design
 date: 2013-09-13T20:13:00.000+00:00
+draft: true
 
 ---
 First off, I'm not a graphic designer by profession and haven't received any kind of training in the field -

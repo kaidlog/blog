@@ -1,13 +1,14 @@
 ---
 title: Building a CLI in Bash
-date: 2016-12-12 08:43:55
+date: 2016-12-12T08:43:55.000+00:00
 tags:
-  - "development"
-  - "github"
-  - "bash"
-  - "opensource"
----
+- development
+- github
+- bash
+- opensource
+draft: true
 
+---
 {{< alert info >}}
 If you're just looking to hop straight to the final project, you'll want
 to check out [SierraSoftworks/bash-cli](https://github.com/SierraSoftworks/bash-cli) on GitHub.

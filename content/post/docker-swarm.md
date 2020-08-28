@@ -1,12 +1,13 @@
 ---
 title: Docker Swarm
-date: 2016-12-11 09:26:53
-tags: 
-    - docker
-    - docker-swarm
-    - ops
+date: 2016-12-11T09:26:53.000+00:00
+tags:
+- docker
+- docker-swarm
+- ops
 categories:
-    - Operations
+- Operations
+
 ---
 Docker Swarm is one of those interesting new technologies which has succeeded in shaking up
 people's preconceptions around what it means to run a scaleable cluster. In an environment

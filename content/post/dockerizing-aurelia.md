@@ -1,12 +1,13 @@
 ---
 title: Dockerizing Aurelia
-date: 2016-12-21 07:40:00 +0000
+date: 2016-12-21T07:40:00.000+00:00
 tags:
 - docker
 - web
 - aurelia
 categories:
 - Web Development
+draft: true
 
 ---
 {{< figure "Aurelia's Logo" "https://cdn.sierrasoftworks.com/blog/aurelia_logo.png" >}}

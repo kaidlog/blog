@@ -1,11 +1,12 @@
 ---
 title: Feeling Lucky
-date: 2016-12-18 15:25:16 +0000
+date: 2016-12-18T15:25:16.000+00:00
 tags:
 - development
 - shits-and-giggles
 categories:
 - Development
+draft: true
 
 ---
 Anybody who has worked in the development world for a significant portion of

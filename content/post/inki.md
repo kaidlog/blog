@@ -1,13 +1,15 @@
 ---
 title: Inki
-date: 2016-12-15 16:53:47
+date: 2016-12-15T16:53:47.000+00:00
 tags:
-  - opensource
-  - github
-  - golang
-  - security
+- opensource
+- github
+- golang
+- security
 categories:
-  - Projects
+- Projects
+draft: true
+
 ---
 [Inki][] is a small proof of concept project I've been working on which is
 designed to manage transient, single-use, SSH keys for an automated remediation

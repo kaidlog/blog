@@ -1,14 +1,14 @@
 ---
 title: ".gitignore unicode"
-date: 2019-07-12T16:35:00+01:00
+date: 2019-07-12T16:35:00.000+01:00
 categories:
-    - development
-    - operations
+- development
+- operations
 tags:
-    - git
+- git
 comments: true
----
 
+---
 Have you ever run into a situation where Git just refused to obey your commands? No, I'm
 not talking about that time you "typo-ed" `git commit` and ended up `git reset --hard`-ing
 your repository back to the dawn of the universe, I'm talking about it really, truly,

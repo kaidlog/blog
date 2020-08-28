@@ -1,8 +1,8 @@
 ---
 title: GNU General Public License v3.0
 comments: false
----
 
+---
 ## Your Rights
 #### You May
 

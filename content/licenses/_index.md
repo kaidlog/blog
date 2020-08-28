@@ -1,11 +1,13 @@
 ---
 title: Licenses
+comments: false
 menu:
   main:
     title: Find the most recent versions of licenses used in my projects
-    pre: '<i class="icon-lock"></i>'
+    pre: <i class="icon-lock"></i>
     weight: 150
-comments: false
+draft: true
+
 ---
 Sierra Softworks applies a couple of difference licenses to the software we release
 depending on its intended audience and use case. We strive to release much of our

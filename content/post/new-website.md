@@ -6,6 +6,7 @@ categories:
 tags:
 - web
 - projects
+draft: true
 
 ---
 Sierra Softworks has a brand new website, rebuilt from the ground up using the

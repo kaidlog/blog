@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/bio/*
+  label: Bio
+  create: all
+  match: "**/*"
+- type: directory
   path: content/licenses
   label: Licenses
   create: all
